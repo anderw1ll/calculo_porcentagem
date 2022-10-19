@@ -10,8 +10,14 @@ O pacote calc_porcentagem é usado para:
 
 Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/estable/) para instalar calc_porcentagem
 
+### Utilizando repositório de teste
 ```bash
 pip install -i https://test.pypi.org/simple/ calc-porcentagem
+```
+Ou
+
+```bash
+pip install calc-porcentagem
 ```
 
 ## Uso
